@@ -1,1 +1,3 @@
 Rename secrets.h.example to secrets.h, add your own parameters.
+
+Sent bytearrays over MQTT, to control lights. format is: [hue_led1, saturation_led2, vibrance_led1, .....  hue_led5 saturation_led5, vibrance_led5]
